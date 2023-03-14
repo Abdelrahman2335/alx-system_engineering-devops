@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ll='ls -lrta'
+unalias ls
