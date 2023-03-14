@@ -1,2 +1,2 @@
 #!/bin/bash
-unalias ls
+unalias ls, ls -l
